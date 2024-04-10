@@ -103,6 +103,9 @@
     margin-top: -70px;
     width: 300px;
   }
+  .section19 > div:nth-child(1) > div{
+    font-size: .6em;
+  }
   .section19 > div:last-child > .section19Country {
     display: none;
   }
